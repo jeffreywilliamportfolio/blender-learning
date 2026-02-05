@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Cursor editor
+.cursor/
+
+# Python virtual environments
+.venv/

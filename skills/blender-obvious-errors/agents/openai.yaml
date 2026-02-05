@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender Obvious Errors"
+  short_description: "Diagnose common Blender issues using official docs only"
+  default_prompt: "Diagnose the Blender problem using only official Blender Manual documentation links. Ask for Blender version/OS/steps/error text, separate confirmed vs inferred, and propose the most obvious checks first."
